@@ -3,7 +3,7 @@
 """
 Created on Tue Dec 26 21:49:09 2017
 
-@author: lamahamadeh
+@author: ShashankSoni
 """
 
 import random, math
